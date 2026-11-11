@@ -2,9 +2,8 @@
 
 Notebook de análise de dados, previsão de curto prazo e clustering para a Horta Inteligente.
 
-## Integrantes
+## Integrante
 - Gustavo Nobre Coppola (RM561423)
-- Pedro Sinnes Martinez (RM566017)
 
 ## Análise Realizada
 - **Leitura e Compreensão:** 72 registros simulados de 3 dias de operação.
